@@ -10,4 +10,5 @@
 
 @interface AAColorView : UIView
 
+-(void)changeColorForPercentage:(CGFloat)percentage;
 @end
